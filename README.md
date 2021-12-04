@@ -1,9 +1,9 @@
 # Portfolio-Project
 
-![picture]( /PortfolioWebSite/WebpagesScreenshots/homePage.jpg ) 
+![alt text](/WebpagesScreenshots/homePage.jpg ) 
 
-![picture]( /PortfolioWebSite/WebpagesScreenshots/pastExperience.jpg ) 
+![alt text](/WebpagesScreenshots/pastExperience.jpg ) 
 
-![picture](  /PortfolioWebSite/WebpagesScreenshots/contactMe.jpg ) 
+![alt text](/WebpagesScreenshots/contactMe.jpg ) 
 
-![picture](  /PortfolioWebSite/WebpagesScreenshots/testimonial.jpg ) 
+![alt text](/WebpagesScreenshots/testimonial.jpg ) 
